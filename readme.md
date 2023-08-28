@@ -1,3 +1,6 @@
+# Version History:
+08/27/2023- 1.0.0 - Initial Commit
+
 # Installation Instructions:
 ## Step 1:
 - Drag and drop `sg-carthief` into your [standalone] folder
